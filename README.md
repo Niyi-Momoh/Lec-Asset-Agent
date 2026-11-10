@@ -1,5 +1,7 @@
 # LEC Asset Sync Agent
 
+[![CI](https://github.com/Niyi-Momoh/Lec-Asset-Agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Niyi-Momoh/Lec-Asset-Agent/actions/workflows/ci.yml)
+
 An agent that maintains a live, best-known inventory of physical assets (a parcel, a
 vehicle, and a piece of equipment) across three independent, concurrently-updating
 operational systems. It actively decides what to check next, detects write-write
